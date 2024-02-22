@@ -1,5 +1,4 @@
 # Deploy-EKS-using-GitOps
-# PROJECTNAME
 
 ## Objective
 [Brief Objective - Remove this afterwards]
